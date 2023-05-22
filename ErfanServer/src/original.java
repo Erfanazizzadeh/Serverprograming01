@@ -29,7 +29,7 @@ public class original {
                 dataOutputStream.flush();
 
                 serverSocket.close();
-                System.out.println("Server is Closed");
+                System.out.println("Server is Closed.");
 
 
             } catch (Exception e) {
